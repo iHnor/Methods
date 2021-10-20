@@ -1,0 +1,16 @@
+/home/intern/projects/Methods/Methods/bin/Debug/net5.0/Methods
+/home/intern/projects/Methods/Methods/bin/Debug/net5.0/Methods.deps.json
+/home/intern/projects/Methods/Methods/bin/Debug/net5.0/Methods.runtimeconfig.json
+/home/intern/projects/Methods/Methods/bin/Debug/net5.0/Methods.runtimeconfig.dev.json
+/home/intern/projects/Methods/Methods/bin/Debug/net5.0/Methods.dll
+/home/intern/projects/Methods/Methods/bin/Debug/net5.0/ref/Methods.dll
+/home/intern/projects/Methods/Methods/bin/Debug/net5.0/Methods.pdb
+/home/intern/projects/Methods/Methods/obj/Debug/net5.0/Methods.csproj.AssemblyReference.cache
+/home/intern/projects/Methods/Methods/obj/Debug/net5.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/intern/projects/Methods/Methods/obj/Debug/net5.0/Methods.AssemblyInfoInputs.cache
+/home/intern/projects/Methods/Methods/obj/Debug/net5.0/Methods.AssemblyInfo.cs
+/home/intern/projects/Methods/Methods/obj/Debug/net5.0/Methods.csproj.CoreCompileInputs.cache
+/home/intern/projects/Methods/Methods/obj/Debug/net5.0/Methods.dll
+/home/intern/projects/Methods/Methods/obj/Debug/net5.0/ref/Methods.dll
+/home/intern/projects/Methods/Methods/obj/Debug/net5.0/Methods.pdb
+/home/intern/projects/Methods/Methods/obj/Debug/net5.0/Methods.genruntimeconfig.cache
