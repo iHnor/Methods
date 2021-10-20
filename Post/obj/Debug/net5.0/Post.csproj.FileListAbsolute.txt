@@ -1,0 +1,16 @@
+/home/intern/projects/Methods/Post/bin/Debug/net5.0/Post
+/home/intern/projects/Methods/Post/bin/Debug/net5.0/Post.deps.json
+/home/intern/projects/Methods/Post/bin/Debug/net5.0/Post.runtimeconfig.json
+/home/intern/projects/Methods/Post/bin/Debug/net5.0/Post.runtimeconfig.dev.json
+/home/intern/projects/Methods/Post/bin/Debug/net5.0/Post.dll
+/home/intern/projects/Methods/Post/bin/Debug/net5.0/ref/Post.dll
+/home/intern/projects/Methods/Post/bin/Debug/net5.0/Post.pdb
+/home/intern/projects/Methods/Post/obj/Debug/net5.0/Post.csproj.AssemblyReference.cache
+/home/intern/projects/Methods/Post/obj/Debug/net5.0/Post.GeneratedMSBuildEditorConfig.editorconfig
+/home/intern/projects/Methods/Post/obj/Debug/net5.0/Post.AssemblyInfoInputs.cache
+/home/intern/projects/Methods/Post/obj/Debug/net5.0/Post.AssemblyInfo.cs
+/home/intern/projects/Methods/Post/obj/Debug/net5.0/Post.csproj.CoreCompileInputs.cache
+/home/intern/projects/Methods/Post/obj/Debug/net5.0/Post.dll
+/home/intern/projects/Methods/Post/obj/Debug/net5.0/ref/Post.dll
+/home/intern/projects/Methods/Post/obj/Debug/net5.0/Post.pdb
+/home/intern/projects/Methods/Post/obj/Debug/net5.0/Post.genruntimeconfig.cache
