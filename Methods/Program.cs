@@ -25,7 +25,6 @@ namespace Methods
             int perimeter = rect.GetPerimeter();
             Console.WriteLine($"Perimeter = {perimeter}");
 
-            rect.Print();
             rect.Move(3);
             rect.Print();
         }
@@ -83,10 +82,10 @@ namespace Methods
                 return perimeter;
             }
             public void Move(int offset)
-            {
-                  this.topLeft.x = this.topLeft.x + offset;
-                  this.topLeft.y = this.topLeft.y + offset;
+            {   
+                topLeft = topLeft.Move(offset);
             }
+                
         }
     }
 }
